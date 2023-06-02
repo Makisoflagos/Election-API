@@ -1,0 +1,7 @@
+NomOfORs4Zxs8xaN
+
+mongodb+srv://amakaekeh15:NomOfORs4Zxs8xaN@cluster0.aou9mww.mongodb.net/
+
+
+
+{"_id":{"$oid":"6479336ceb1f962ebafd9fa9"},"state":"Lagos state","parties":["ACN","APC","APGA","CPC","LP","PDP"],"result":{"ACN":{"$numberInt":"20"},"APC":{"$numberInt":"50"},"APGA":{"$numberInt":"10"},"CPC":{"$numberInt":"20"},"LP":{"$numberInt":"170"},"PDP":{"$numberInt":"30"}},"collationOfficer":"Yetunde Alesh","isRigged":false,"totaLG":{"$numberInt":"46"},"__v":{"$numberInt":"0"}}
